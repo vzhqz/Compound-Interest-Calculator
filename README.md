@@ -1,1 +1,1 @@
-<h1>https://github.io/vzhqz/Compound-Interest-Calculator/</h1>
+<h1>https://vzhqz.github.io/Compound-Interest-Calculator/</h1>
